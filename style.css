@@ -76,7 +76,7 @@
     margin-bottom: 5px;
   }
   
-  @media screen and (max-width: 544px) {
+  @media screen and (max-width: 768px) {
     .navbar-menu {
       display: none;
     }
